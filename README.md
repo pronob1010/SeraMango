@@ -1,4 +1,4 @@
 # SeraMango
 
-A Practice Android project.
+A Practice Android project for University.
 
